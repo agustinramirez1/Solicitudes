@@ -1,0 +1,39 @@
+.bg-sky-blue {
+    background-color: skyblue;
+}
+
+/* .col-10 {
+    text-align: center;
+    margin-left: 110px;
+} */
+
+.icon {
+    margin-top: -6px;
+}
+
+i:hover {
+    background: #dadada;
+    width: 30px;
+    border-radius: 4px;
+}
+
+#boton-plus:hover {
+    background: rgb(97, 192, 230);
+}
+#boton-plus {
+    border-radius:0 inherit 0 0 !important;
+    cursor: pointer;
+}
+
+.icon-plus:hover {
+    background: rgb(97, 192, 230);;
+}
+
+.img {
+    width: 100px;
+}
+
+.icono-sangre {
+    width: 35px;
+    height: 35px;
+}
